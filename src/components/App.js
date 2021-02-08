@@ -1,10 +1,10 @@
 import React from 'react';
-
+import NavBar from './navbar/navbar'
 const App = () => {
 	return (
 		// <h1>hey</h1>
 		<div>
-			<h1>Google clone</h1>
+			<NavBar/>
 		</div>
 		
 	)
