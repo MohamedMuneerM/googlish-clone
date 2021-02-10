@@ -1,0 +1,49 @@
+.applymr {
+	margin: 50%;
+	margin-right: 200px;
+	/*transform: translateX(50%);*/
+	/*transform: translateY(50%);*/
+}
+
+
+.round-search{
+	/*padding: 50%;*/
+	/*margin-left: 200px;*/
+	/*margin-right: 200px;*/
+	/*color: red;*/
+}
+
+.searchbar {
+	position: relative;
+	max-width: 60%;
+	/*z-index: -9999;*/
+	/*color: red;*/
+	/*color: red;*/
+}
+
+input{
+	/*margin-left: 20px*/
+	/*text-overflow: clip;*/
+}
+
+.search-icon {
+	position: absolute;
+
+	top: 11px;
+	left: 12px;
+
+
+
+	/*width: 10px;*/
+	/*padding: 10px;*/
+	/*margin: ;*/
+}
+
+
+
+
+
+
+
+
+
